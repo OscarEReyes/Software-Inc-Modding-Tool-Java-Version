@@ -35,6 +35,7 @@ public class Category {
         this.population    = builder.population;
         this.retention     = builder.retention;
         this.timescale     = builder.timescale;
+        this.iterative     = builder.iterative;
         this.nameGenerator = builder.nameGenerator;
     }
 
